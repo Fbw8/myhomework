@@ -1,24 +1,69 @@
 <html>
     <head>
 	<title>Learning Git by examples: Branches</title>
-<script src="index.js"></script>
-</head>
+	<script src="index.js"></script>
+	</head>
     <body>
+
+        <img src="/myhomework/images/sun_hamid.jpg" />
+        <img src="/myhomework/images/mountain.jpg" />
+        <h1>This is a top level heading</h1>
+       	<span style="font-size: 32px;margin: 21px 0;">this is top level heading ?</span>
+<<<<<<< HEAD
+    </body>
+</html>
+=======
+<<<<<<< HEAD
+        <img src="/images/sun.jpg" />
+        <img src="/images/mountain.jpg" />
+        <img src="/images/ethereum.jpg" />
+=======
+  
 <<<<<<< HEAD
         <img src="/home/devugees/Desktop/mywebsite/code/image/sun.jpg" />
         <img src="/home/devugees/Desktop/mywebsite/code/image/mountain.jpg" />
         <img src="/home/devugees/Desktop/mywebsite/code/image/ethereum.jpg" />
+>>>>>>> b62d3337741baea7a99dbe9601e40ac109518857
+=======
+        <img src="/myhomework/image/sun.jpg" />
+        <img src="/myhomework/image/mountain.jpg" />
+        <img src="/myhomework/image/ethereum.jpg" />
+>>>>>>> 28db11f5145c0e7e66ba7d9ff1b13afcb9cfc5a1
  
-<h1>Arania</h1>
+		<h1>Arania</h1>
 
-<p>"Jedes Geschöpf auf Arania – das Tier und der Manne, die Pflanze und jene Gestalt, die Arania seit Entstehung begleitet - gehört verflucht und verdorben, geknechtet und gepeinigt, in Vergangenheit, Gegenwart und der Ferne für immer ausgelöscht. Jedes Geschöpf, das dem Guten und Gutmütigen, dem Tapferen dient und dienen wird, soll das Schicksal erdulden, wie es die Alten Herren der Frühen Zeit erduldet haben.
+		<p>"Jedes Geschöpf auf Arania – das Tier und der Manne, die Pflanze und jene Gestalt, die Arania seit Entstehung begleitet - gehört verflucht und verdorben, geknechtet und gepeinigt, in Vergangenheit, Gegenwart und der Ferne für immer ausgelöscht. Jedes Geschöpf, das dem Guten und Gutmütigen, dem Tapferen dient und dienen wird, soll das Schicksal erdulden, wie es die Alten Herren der Frühen Zeit erduldet haben.
 
+<<<<<<< HEAD
 Ein letzter Schlag, der große Ausklang und all Gutes und Gutmütiges, all Tapferes ist für immer gepeinigt und vergessen."</p>      
 =======
         <img src="images/sun.jpg" />
         <img src="images/mountain.jpg" />
         <img src="images/ethereum.jpg" />
+
+	<ul>
+		<li>Test1</li>
+		<li>TEST2</li>
+		<li>TEST3333</li>
+	</ul>
+=======
+		Ein letzter Schlag, der große Ausklang und all Gutes und Gutmütiges, all Tapferes ist für immer gepeinigt und vergessen."</p>
+>>>>>>> b62d3337741baea7a99dbe9601e40ac109518857
        
->>>>>>> 081d14bfb9dc51cb9f4129cc7bd33513c858ccc0
+       <ul>
+       		<li>Smartphones</li>
+	       	<li>Tv</li>
+	       	<li>Watches</li>
+	       	<dd>You can buy from this list</dd>
+       </ul>
+
+       <ol>
+	       	<li>Home</li>
+	       	<li>Service</li>
+	       	<li>Contact</li>
+	       	<li>About</li>
+	       	<dd>This is a Nav bar</dd>
+       </ol>
+
     </body>
 </html>
